@@ -1,6 +1,6 @@
-# IBMAppDS
-IBM Applied Data Science Repository
+# IBMAppDSSpec
+IBM Applied Data Science SpecializationRepository
 
-These are Markdown Files which I completed while taking the IBC Applied Data Science Specialization on Coursera.
+These are Markdown Files for the Capstone project Analyzing SpaceX data. I completed the IBC Applied Data Science Specialization on Coursera in November 2023.
 
 Have fun.
